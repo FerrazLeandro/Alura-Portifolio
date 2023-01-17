@@ -54,3 +54,22 @@ footer {
     align-items: center;
     justify-content: center; 
 }
+
+
+@media only screen and (max-width: 600px) {
+    .container {
+        display: inline-block;
+        align-items: center;
+        justify-content: center; 
+    }
+
+    .introducao {
+        margin: 10%;
+        width: 80vw;
+    }
+    
+    .imagem {
+        width: 90vw;
+    }
+    
+}
