@@ -36,11 +36,14 @@ p {
     margin-bottom: 24px;
 }
 
+<<<<<<< HEAD
 a {
     text-decoration: none;
     color: #f6f6f6;
 }
 
+=======
+>>>>>>> d1838afaa9adc0bc4feb93543d3b31dba75b0ad3
 .introducao > a {
     background-color: #22D4FD;
     color: #000000;
